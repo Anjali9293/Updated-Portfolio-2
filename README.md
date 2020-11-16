@@ -2,7 +2,7 @@
 
 ## Description
 
-The project was to build a mobile responsive portfolio with my personal details featuring projects and some exemplery homework assignments.
+The project was to build a mobile responsive portfolio with my personal details featuring project-1 and project-2 and some exemplery homework assignments.
 
 The webpage renders well on variety of devices and windows or screen sizes.The webiste is developed utlizing Bootstrap componenets and grid system.
 
@@ -15,7 +15,7 @@ The webpage renders well on variety of devices and windows or screen sizes.The w
 
 ## Features
 
-- Website has navigation bars to toggle between Conatct page, portfolio page, About page, Linkedin and Github profile
+- Website has navigation bars to toggle between Conatct page, portfolio page, About page, Linkedin and Github profile. Changed linkedin and github links to shows the icons.
 
 ![Navbar](assets/snapshots/nav.PNG)
 
